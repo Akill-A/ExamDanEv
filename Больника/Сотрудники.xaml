@@ -49,7 +49,7 @@
         <TextBox HorizontalAlignment="Left" Height="23" Margin="139,215,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="197"/>
         <Label Content="Адрес&#xD;&#xA;" HorizontalAlignment="Left" Margin="353,185,0,0" VerticalAlignment="Top" FontFamily="Trebuchet MS" FontSize="17" Height="30" Foreground="White"/>
         <TextBox HorizontalAlignment="Left" Height="23" Margin="353,215,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="174"/>
-        <Button Content="Добавить" HorizontalAlignment="Left" Margin="269,253,0,0" VerticalAlignment="Top" Width="141" Height="27" FontFamily="Trebuchet MS" FontSize="17" BorderBrush="{x:Null}" Foreground="White" Click="Button_Click_2" Cursor="Hand">
+        <Button Content="Добавить" HorizontalAlignment="Left" Margin="269,253,0,0" VerticalAlignment="Top" Width="141" Height="27" FontFamily="Trebuchet MS" FontSize="18" BorderBrush="{x:Null}" Foreground="White" Click="Button_Click_2" Cursor="Hand">
             <Button.Background>
                 <LinearGradientBrush EndPoint="0.5,1" StartPoint="0.5,0">
                     <GradientStop Color="#FF1172A5" Offset="0"/>
