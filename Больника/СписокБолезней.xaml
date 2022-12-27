@@ -53,45 +53,45 @@
                         
                         <TableRow>
                             <TableCell>
-                                <Paragraph>А.А.Белый</Paragraph>
+                                <Paragraph>А.Ч.Чёрный</Paragraph>
                             </TableCell>
                             <TableCell>
-                                <Paragraph>Осмотрит</Paragraph>
+                                <Paragraph>Рак лёгких</Paragraph>
                             </TableCell>
                             <TableCell>
-                                <Paragraph>Боль в ногах</Paragraph>
+                                <Paragraph>Кома</Paragraph>
                             </TableCell>
                             <TableCell>
-                                <Paragraph>А.М.Крылов</Paragraph>
+                                <Paragraph>Жив</Paragraph>
                             </TableCell>
                         </TableRow>
                         <TableRow Background="lightgray">
                             <TableCell>
-                                <Paragraph>Ю.К.Лебедев</Paragraph>
+                                <Paragraph>Н.Ю.Лебедев</Paragraph>
                             </TableCell>
                             <TableCell>
-                                <Paragraph>Асмотит</Paragraph>
+                                <Paragraph>Апендицит</Paragraph>
                             </TableCell>
                             <TableCell>
-                                <Paragraph>Боль в ушах</Paragraph>
+                                <Paragraph>Боль в брюшной полости</Paragraph>
                             </TableCell>
                             <TableCell>
-                                <Paragraph>П.И.Волкова</Paragraph>
+                                <Paragraph>Жив</Paragraph>
                             </TableCell>
                         </TableRow>
                         <TableRow>
                             <TableCell>
-                                <Paragraph>М.В.Баженов
+                                <Paragraph>Е.В.Баженов
                                 </Paragraph>
                             </TableCell>
                             <TableCell>
-                                <Paragraph>Волейбол</Paragraph>
+                                <Paragraph>Открытый перелом правой ноги</Paragraph>
                             </TableCell>
                             <TableCell>
-                                <Paragraph>Боль в желудке</Paragraph>
+                                <Paragraph>Боль в ноге, гной, кровотечение</Paragraph>
                             </TableCell>
                             <TableCell>
-                                <Paragraph>В.О.Иванова</Paragraph>
+                                <Paragraph>Мёртв</Paragraph>
                             </TableCell>
                         </TableRow>
                         <TableRow Background="lightgray">
@@ -99,13 +99,13 @@
                                 <Paragraph>Г.Д.Львова</Paragraph>
                             </TableCell>
                             <TableCell>
-                                <Paragraph>Баскетбол</Paragraph>
+                                <Paragraph>Вывих левой руки</Paragraph>
                             </TableCell>
                             <TableCell>
-                                <Paragraph>Боль в пальцах</Paragraph>
+                                <Paragraph>Боль в руке</Paragraph>
                             </TableCell>
                             <TableCell>
-                                <Paragraph>М.Б.Тарасов</Paragraph>
+                                <Paragraph>Жива</Paragraph>
                             </TableCell>
                         </TableRow>
 
@@ -123,7 +123,7 @@
                                 <Paragraph>Боль в голове</Paragraph>
                             </TableCell>
                             <TableCell>
-                                <Paragraph>П.И.Волкова</Paragraph>
+                                <Paragraph>Мертва</Paragraph>
                             </TableCell>
                         </TableRow>
                         <TableRow Background="lightgray">
@@ -137,7 +137,7 @@
                                 <Paragraph>Боль в затылке</Paragraph>
                             </TableCell>
                             <TableCell>
-                                <Paragraph>А.М.Крылов</Paragraph>
+                                <Paragraph>Мёртв</Paragraph>
                             </TableCell>
                         </TableRow>
                         <TableRow>
@@ -151,7 +151,7 @@
                                 <Paragraph>Боль в ушах</Paragraph>
                             </TableCell>
                             <TableCell>
-                                <Paragraph>В.О.Иванова</Paragraph>
+                                <Paragraph>Жив</Paragraph>
                             </TableCell>
                         </TableRow>
                         <TableRow Background="lightgray">
@@ -165,7 +165,7 @@
                                 <Paragraph>Боль в ушах</Paragraph>
                             </TableCell>
                             <TableCell>
-                                <Paragraph>М. Б. Тарасов</Paragraph>
+                                <Paragraph>Жива</Paragraph>
                             </TableCell>
                         </TableRow>
                         <TableRow>
@@ -179,7 +179,7 @@
                                 <Paragraph>Боль в желудке</Paragraph>
                             </TableCell>
                             <TableCell>
-                                <Paragraph>П. И. Волкова</Paragraph>
+                                <Paragraph>Жива</Paragraph>
                             </TableCell>
                         </TableRow>
                         <TableRow Background="lightgray">
@@ -193,7 +193,7 @@
                                 <Paragraph>Головокружение</Paragraph>
                             </TableCell>
                             <TableCell>
-                                <Paragraph>А. М. Крылов</Paragraph>
+                                <Paragraph>Жив</Paragraph>
                             </TableCell>
                         </TableRow>
                         <TableRow>
@@ -204,10 +204,10 @@
                                 <Paragraph>Лопинтиноник</Paragraph>
                             </TableCell>
                             <TableCell>
-                                <Paragraph>Бооль в тазовой области</Paragraph>
+                                <Paragraph>Боль в тазовой области</Paragraph>
                             </TableCell>
                             <TableCell>
-                                <Paragraph>М.Б.Тарасов</Paragraph>
+                                <Paragraph>Жив</Paragraph>
                             </TableCell>
                         </TableRow>
                         <TableRow Background="lightgray">
@@ -215,13 +215,13 @@
                                 <Paragraph>А.В.Ширяева</Paragraph>
                             </TableCell>
                             <TableCell>
-                                <Paragraph>Доброкинил</Paragraph>
+                                <Paragraph>Декапитация</Paragraph>
                             </TableCell>
                             <TableCell>
-                                <Paragraph>Боль в глазах</Paragraph>
+                                <Paragraph>Боль в шее</Paragraph>
                             </TableCell>
                             <TableCell>
-                                <Paragraph>А.М.Крылов</Paragraph>
+                                <Paragraph>Мёртв</Paragraph>
                             </TableCell>
                         </TableRow>
                         <TableRow>
@@ -235,7 +235,7 @@
                                 <Paragraph>Боль я пятке</Paragraph>
                             </TableCell>
                             <TableCell>
-                                <Paragraph>К.М.Киров</Paragraph>
+                                <Paragraph>Жива</Paragraph>
                             </TableCell>
                         </TableRow>
                         <TableRow Background="lightgray">

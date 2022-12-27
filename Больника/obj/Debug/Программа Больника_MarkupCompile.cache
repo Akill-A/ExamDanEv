@@ -4,17 +4,17 @@
 winexe
 C#
 .cs
-C:\Игнатий Виссарионович Чепушили\Больника\obj\Debug\
+C:\Users\PC-9\Desktop\экз\ExamDanEv\Больника\obj\Debug\
 Программа_Больника
 none
 false
 DEBUG;TRACE
-C:\Игнатий Виссарионович Чепушили\Больника\App.xaml
+C:\Users\PC-9\Desktop\экз\ExamDanEv\Больника\App.xaml
 9-1278574316
 
-13914147953
+1471788586
 13-1505183044
 MainWindow.xaml;Болезни.xaml;Лекарство.xaml;Пациенты.xaml;Сотрудники.xaml;СписокБолезней.xaml;СписокЛекарств.xaml;СписокПациентов.xaml;СписокСотрудников.xaml;
 
-False
+True
 
