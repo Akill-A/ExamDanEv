@@ -56,7 +56,7 @@
                                 <Paragraph>Низкие показатели жизнедеятельности организма</Paragraph>
                             </TableCell>
                             <TableCell>
-                                <Paragraph>Предсмертное состояние</Paragraph>
+                                <Paragraph>Не вылечен</Paragraph>
                             </TableCell>
                         </TableRow>
                         <TableRow Background="lightgray">
@@ -70,7 +70,7 @@
                                 <Paragraph>Боль в брюшной полости</Paragraph>
                             </TableCell>
                             <TableCell>
-                                <Paragraph>Жив</Paragraph>
+                                <Paragraph>Вылечен</Paragraph>
                             </TableCell>
                         </TableRow>
                         <TableRow>
@@ -85,7 +85,7 @@
                                 <Paragraph>Боль в ноге, гной, кровотечение</Paragraph>
                             </TableCell>
                             <TableCell>
-                                <Paragraph>Мёртв</Paragraph>
+                                <Paragraph>Не вылечен</Paragraph>
                             </TableCell>
                         </TableRow>
                         <TableRow Background="lightgray">
@@ -99,7 +99,7 @@
                                 <Paragraph>Боль в руке</Paragraph>
                             </TableCell>
                             <TableCell>
-                                <Paragraph>Жива</Paragraph>
+                                <Paragraph>Вылечен</Paragraph>
                             </TableCell>
                         </TableRow>
 
@@ -114,7 +114,7 @@
                                 <Paragraph>Боль в голове</Paragraph>
                             </TableCell>
                             <TableCell>
-                                <Paragraph>Мертва</Paragraph>
+                                <Paragraph>Не вылечен</Paragraph>
                             </TableCell>
                         </TableRow>
                         <TableRow Background="lightgray">
@@ -128,7 +128,7 @@
                                 <Paragraph>Боль в затылке</Paragraph>
                             </TableCell>
                             <TableCell>
-                                <Paragraph>Мёртв</Paragraph>
+                                <Paragraph>Не вылечен</Paragraph>
                             </TableCell>
                         </TableRow>
                         <TableRow>
@@ -142,7 +142,7 @@
                                 <Paragraph>Боль в ушах</Paragraph>
                             </TableCell>
                             <TableCell>
-                                <Paragraph>Жив</Paragraph>
+                                <Paragraph>Вылечен</Paragraph>
                             </TableCell>
                         </TableRow>
                         <TableRow Background="lightgray">
@@ -156,7 +156,7 @@
                                 <Paragraph>Боль в ушах</Paragraph>
                             </TableCell>
                             <TableCell>
-                                <Paragraph>Жива</Paragraph>
+                                <Paragraph>Вылечена</Paragraph>
                             </TableCell>
                         </TableRow>
                         <TableRow>
@@ -170,7 +170,7 @@
                                 <Paragraph>Боль в желудке</Paragraph>
                             </TableCell>
                             <TableCell>
-                                <Paragraph>Жива</Paragraph>
+                                <Paragraph>Вылечена</Paragraph>
                             </TableCell>
                         </TableRow>
                         <TableRow Background="lightgray">
@@ -184,7 +184,7 @@
                                 <Paragraph>Головокружение</Paragraph>
                             </TableCell>
                             <TableCell>
-                                <Paragraph>Жив</Paragraph>
+                                <Paragraph>Вылечен</Paragraph>
                             </TableCell>
                         </TableRow>
                         <TableRow>
@@ -198,7 +198,7 @@
                                 <Paragraph>Боль в тазовой области</Paragraph>
                             </TableCell>
                             <TableCell>
-                                <Paragraph>Жив</Paragraph>
+                                <Paragraph>Вылечен</Paragraph>
                             </TableCell>
                         </TableRow>
                         <TableRow Background="lightgray">
@@ -226,7 +226,7 @@
                                 <Paragraph>Боль в пятке</Paragraph>
                             </TableCell>
                             <TableCell>
-                                <Paragraph>Жива</Paragraph>
+                                <Paragraph>Вылечен</Paragraph>
                             </TableCell>
                         </TableRow>
                         <TableRow Background="lightgray">
@@ -240,7 +240,7 @@
                                 <Paragraph>Боль в руках</Paragraph>
                             </TableCell>
                             <TableCell>
-                                <Paragraph>Жив, ампутация рук</Paragraph>
+                                <Paragraph>Вылечен</Paragraph>
                             </TableCell>
                         </TableRow>
                         

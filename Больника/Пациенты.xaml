@@ -86,12 +86,14 @@
                 <DropShadowEffect BlurRadius="10" Opacity="0.5"/>
             </Label.Effect>
         </Label>
-        <Label Content="Результаты лечения&#xA;" HorizontalAlignment="Left" Margin="155,238,0,0" VerticalAlignment="Top" FontFamily="Trebuchet MS" FontSize="17" Height="30" Foreground="White" RenderTransformOrigin="0.438,0.567"/>
-        <ComboBox HorizontalAlignment="Left" Margin="155,271,0,0" VerticalAlignment="Top" Width="169" Background="White" BorderBrush="White" Height="23" SelectionChanged="ComboBox_SelectionChanged"/>
-        <Label Content="Дата&#xA;" HorizontalAlignment="Left" Margin="353,238,0,0" VerticalAlignment="Top" FontFamily="Trebuchet MS" FontSize="17" Height="30" Foreground="White"/>
-        <TextBox HorizontalAlignment="Left" Height="23" Margin="353,271,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="84"/>
-        <Label Content="Палата&#xA;" HorizontalAlignment="Left" Margin="467,238,0,0" VerticalAlignment="Top" FontFamily="Trebuchet MS" FontSize="17" Height="30" Foreground="White"/>
-        <TextBox HorizontalAlignment="Left" Height="23" Margin="462,270,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="84"/>
+        <Label Content="Лечение" HorizontalAlignment="Left" Margin="181,238,0,0" VerticalAlignment="Top" FontFamily="Trebuchet MS" FontSize="17" Height="30" Foreground="White" RenderTransformOrigin="0.438,0.567"/>
+        <ComboBox HorizontalAlignment="Left" Margin="146,271,0,0" VerticalAlignment="Top" Width="134" Background="White" BorderBrush="White" Height="23" SelectionChanged="ComboBox_SelectionChanged"/>
+        <Label Content="Дата&#xA;" HorizontalAlignment="Left" Margin="306,238,0,0" VerticalAlignment="Top" FontFamily="Trebuchet MS" FontSize="17" Height="30" Foreground="White"/>
+        <TextBox HorizontalAlignment="Left" Height="23" Margin="298,271,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="84"/>
+        <Label Content="Палата&#xA;" HorizontalAlignment="Left" Margin="392,238,0,0" VerticalAlignment="Top" FontFamily="Trebuchet MS" FontSize="17" Height="30" Foreground="White"/>
+        <TextBox HorizontalAlignment="Left" Height="23" Margin="394,271,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="63"/>
+        <TextBox HorizontalAlignment="Left" Height="23" Margin="474,271,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="74"/>
+        <Label Content="Код врача&#xA;" HorizontalAlignment="Left" Margin="472,241,0,0" VerticalAlignment="Top" FontFamily="Trebuchet MS" FontSize="17" Height="30" Foreground="White"/>
 
     </Grid>
 </Window>
