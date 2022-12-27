@@ -59,10 +59,10 @@
                                 <Paragraph>Рак лёгких</Paragraph>
                             </TableCell>
                             <TableCell>
-                                <Paragraph>Кома</Paragraph>
+                                <Paragraph>Низкие показатели жизнедеятельности организма</Paragraph>
                             </TableCell>
                             <TableCell>
-                                <Paragraph>Жив</Paragraph>
+                                <Paragraph>Предсмертное состояние</Paragraph>
                             </TableCell>
                         </TableRow>
                         <TableRow Background="lightgray">
@@ -232,7 +232,7 @@
                                 <Paragraph>Асторин</Paragraph>
                             </TableCell>
                             <TableCell>
-                                <Paragraph>Боль я пятке</Paragraph>
+                                <Paragraph>Боль в пятке</Paragraph>
                             </TableCell>
                             <TableCell>
                                 <Paragraph>Жива</Paragraph>
@@ -249,7 +249,7 @@
                                 <Paragraph>Боль в руках</Paragraph>
                             </TableCell>
                             <TableCell>
-                                <Paragraph>Ю.О.Кисмитинов</Paragraph>
+                                <Paragraph>Жив, ампутация рук</Paragraph>
                             </TableCell>
                         </TableRow>
                         

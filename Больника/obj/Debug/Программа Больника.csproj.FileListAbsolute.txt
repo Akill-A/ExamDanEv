@@ -83,3 +83,34 @@ C:\Игнатий Виссарионович Чепушили\Больника\o
 C:\Игнатий Виссарионович Чепушили\Больника\obj\Debug\Программа Больника.csproj.CoreCompileInputs.cache
 C:\Игнатий Виссарионович Чепушили\Больника\obj\Debug\Программа Больника.exe
 C:\Игнатий Виссарионович Чепушили\Больника\obj\Debug\Программа Больника.pdb
+C:\Users\PC-9\Desktop\экз\ExamDanEv\Больника\bin\Debug\Программа Больника.exe.config
+C:\Users\PC-9\Desktop\экз\ExamDanEv\Больника\bin\Debug\Программа Больника.exe
+C:\Users\PC-9\Desktop\экз\ExamDanEv\Больника\bin\Debug\Программа Больника.pdb
+C:\Users\PC-9\Desktop\экз\ExamDanEv\Больника\obj\Debug\Программа Больника.csprojAssemblyReference.cache
+C:\Users\PC-9\Desktop\экз\ExamDanEv\Больника\obj\Debug\MainWindow.g.cs
+C:\Users\PC-9\Desktop\экз\ExamDanEv\Больника\obj\Debug\Болезни.g.cs
+C:\Users\PC-9\Desktop\экз\ExamDanEv\Больника\obj\Debug\Лекарство.g.cs
+C:\Users\PC-9\Desktop\экз\ExamDanEv\Больника\obj\Debug\Пациенты.g.cs
+C:\Users\PC-9\Desktop\экз\ExamDanEv\Больника\obj\Debug\Сотрудники.g.cs
+C:\Users\PC-9\Desktop\экз\ExamDanEv\Больника\obj\Debug\СписокБолезней.g.cs
+C:\Users\PC-9\Desktop\экз\ExamDanEv\Больника\obj\Debug\СписокЛекарств.g.cs
+C:\Users\PC-9\Desktop\экз\ExamDanEv\Больника\obj\Debug\СписокПациентов.g.cs
+C:\Users\PC-9\Desktop\экз\ExamDanEv\Больника\obj\Debug\СписокСотрудников.g.cs
+C:\Users\PC-9\Desktop\экз\ExamDanEv\Больника\obj\Debug\App.g.cs
+C:\Users\PC-9\Desktop\экз\ExamDanEv\Больника\obj\Debug\Программа Больника_MarkupCompile.cache
+C:\Users\PC-9\Desktop\экз\ExamDanEv\Больника\obj\Debug\Программа Больника_MarkupCompile.lref
+C:\Users\PC-9\Desktop\экз\ExamDanEv\Больника\obj\Debug\MainWindow.baml
+C:\Users\PC-9\Desktop\экз\ExamDanEv\Больника\obj\Debug\Болезни.baml
+C:\Users\PC-9\Desktop\экз\ExamDanEv\Больника\obj\Debug\Лекарство.baml
+C:\Users\PC-9\Desktop\экз\ExamDanEv\Больника\obj\Debug\Пациенты.baml
+C:\Users\PC-9\Desktop\экз\ExamDanEv\Больника\obj\Debug\Сотрудники.baml
+C:\Users\PC-9\Desktop\экз\ExamDanEv\Больника\obj\Debug\СписокБолезней.baml
+C:\Users\PC-9\Desktop\экз\ExamDanEv\Больника\obj\Debug\СписокЛекарств.baml
+C:\Users\PC-9\Desktop\экз\ExamDanEv\Больника\obj\Debug\СписокПациентов.baml
+C:\Users\PC-9\Desktop\экз\ExamDanEv\Больника\obj\Debug\СписокСотрудников.baml
+C:\Users\PC-9\Desktop\экз\ExamDanEv\Больника\obj\Debug\Программа Больника.g.resources
+C:\Users\PC-9\Desktop\экз\ExamDanEv\Больника\obj\Debug\Программа_Больника.Properties.Resources.resources
+C:\Users\PC-9\Desktop\экз\ExamDanEv\Больника\obj\Debug\Программа Больника.csproj.GenerateResource.cache
+C:\Users\PC-9\Desktop\экз\ExamDanEv\Больника\obj\Debug\Программа Больника.csproj.CoreCompileInputs.cache
+C:\Users\PC-9\Desktop\экз\ExamDanEv\Больника\obj\Debug\Программа Больника.exe
+C:\Users\PC-9\Desktop\экз\ExamDanEv\Больника\obj\Debug\Программа Больника.pdb
