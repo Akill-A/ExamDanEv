@@ -7,7 +7,6 @@
         mc:Ignorable="d"
         Title="Список Болезней" Height="450" Width="800" Icon="Icon.png">
     <Grid>
-       
         <FlowDocumentReader Margin="0,10,0,0">
             <FlowDocumentReader.Background>
                 <ImageBrush ImageSource="8_dhans11.jpg"/>
@@ -24,15 +23,13 @@
                     </Table.Columns>
 
                     <TableRowGroup>
-
-                        
+                       
                         <TableRow Background="#FF29B4F5">
                             <TableCell ColumnSpan="4" TextAlignment="Center">
                                 <Paragraph FontSize="24pt" FontWeight="Bold">Болезни</Paragraph>
                             </TableCell>
                         </TableRow>
-
-                       
+               
                         <TableRow Background="#FF1BEDF7">
                             <TableCell>
                                 <Paragraph FontSize="14pt" FontWeight="Bold">ФИО</Paragraph>
@@ -47,10 +44,7 @@
                                 <Paragraph FontSize="14pt" FontWeight="Bold">Статус</Paragraph>
                             </TableCell>
                         </TableRow>
-
-
-
-                        
+                 
                         <TableRow>
                             <TableCell>
                                 <Paragraph>А.Ч.Чёрный</Paragraph>
@@ -108,9 +102,6 @@
                                 <Paragraph>Жива</Paragraph>
                             </TableCell>
                         </TableRow>
-
-
-
 
                         <TableRow>
                             <TableCell>
