@@ -8,7 +8,7 @@
         Title="Список Пациентов" Height="450" Width="800" Icon="Icon.png">
     <Grid>
 
-        <FlowDocumentReader Margin="-19,10,19,0" Background="{x:Null}">
+        <FlowDocumentReader Margin="103,-21,106,10" Background="{x:Null}">
             <FlowDocumentReader.SelectionBrush>
                 <LinearGradientBrush EndPoint="0.5,1" StartPoint="0.5,0">
                     <GradientStop Color="#FF1172A5" Offset="0"/>

@@ -8,7 +8,7 @@
         Title="Список Лекарств" Height="450" Width="800" Icon="Icon.png">
     <Grid>
         
-        <FlowDocumentReader Margin="0,10,0,0">
+        <FlowDocumentReader Margin="50,-17,49,0">
             <FlowDocumentReader.Background>
                 <ImageBrush ImageSource="8_dhans11.jpg"/>
             </FlowDocumentReader.Background>
@@ -59,10 +59,10 @@
                         
                         <TableRow>
                             <TableCell>
-                                <Paragraph>1</Paragraph>
+                                <Paragraph>1А</Paragraph>
                             </TableCell>
                             <TableCell>
-                                <Paragraph>Опротитил</Paragraph>
+                                <Paragraph>Озверин</Paragraph>
                             </TableCell>
                             <TableCell>
                                 <Paragraph>1000р</Paragraph>
@@ -79,19 +79,19 @@
                         </TableRow>
                         <TableRow Background="lightgray">
                             <TableCell>
-                                <Paragraph>2</Paragraph>
+                                <Paragraph>2Б</Paragraph>
                             </TableCell>
                             <TableCell>
-                                <Paragraph>Отипакс</Paragraph>
+                                <Paragraph>Ментаты</Paragraph>
                             </TableCell>
                             <TableCell>
-                                <Paragraph>100000р</Paragraph>
+                                <Paragraph>3000р</Paragraph>
                             </TableCell>
                             <TableCell>
                                 <Paragraph>Боль в ногах</Paragraph>
                             </TableCell>
                             <TableCell>
-                                <Paragraph>Повышает интелект</Paragraph>
+                                <Paragraph>Повышает интеллект</Paragraph>
                             </TableCell>
                             <TableCell>
                                 <Paragraph>20штук</Paragraph>
@@ -104,7 +104,7 @@
         </FlowDocumentReader>
 
 
-        <Button Content="" HorizontalAlignment="Left" VerticalAlignment="Top" Width="53" Height="39" BorderBrush="{x:Null}" Click="Button_Click" Foreground="Black" Margin="10,370,0,0" Cursor="Hand">
+        <Button Content="" HorizontalAlignment="Left" VerticalAlignment="Top" Width="53" Height="39" BorderBrush="{x:Null}" Click="Button_Click" Foreground="Black" Margin="10,352,0,0" Cursor="Hand">
             <Button.Background>
                 <ImageBrush ImageSource="Back.png" Stretch="Uniform"/>
             </Button.Background>

@@ -11,7 +11,7 @@
             <ImageBrush/>
         </Grid.Background>
 
-        <FlowDocumentReader Margin="0,10,0,0" HorizontalAlignment="Right" Width="792">
+        <FlowDocumentReader Margin="0,-20,75,0" HorizontalAlignment="Right" Width="594">
             <FlowDocument>
 
                 <Table CellSpacing="5">
@@ -55,7 +55,7 @@
                             <TableCell>
                                 <Paragraph FontSize="14pt" FontWeight="Bold">Пол</Paragraph>
                             </TableCell>
-                            
+
                         </TableRow>
 
 
@@ -83,7 +83,7 @@
                             <TableCell>
                                 <Paragraph>Муж</Paragraph>
                             </TableCell>
-                            
+
                         </TableRow>
                         <TableRow Background="lightgray">
                             <TableCell>
@@ -107,7 +107,7 @@
                             <TableCell>
                                 <Paragraph>Жен</Paragraph>
                             </TableCell>
-                            
+
                         </TableRow>
 
                     </TableRowGroup>
