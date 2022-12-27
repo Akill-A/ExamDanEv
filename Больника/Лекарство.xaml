@@ -5,7 +5,7 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:Программа_Больника"
         mc:Ignorable="d"
-        Title="Лекарство" Height="500" Width="800" Icon="Icon.png">
+        Title="Лекарство" Height="442" Width="740" Icon="Icon.png">
     <Window.Background>
         <ImageBrush ImageSource="fon.jpg"/>
     </Window.Background>
@@ -21,7 +21,7 @@
                 <ImageBrush ImageSource="Back.png" Stretch="Uniform"/>
             </Button.Background>
         </Button>
-        <Button Content="" HorizontalAlignment="Left" VerticalAlignment="Top" Width="53" Height="39" BorderBrush="{x:Null}" Margin="737,0,0,0" RenderTransformOrigin="0.5,0.5" Click="Button_Click_1" Cursor="Hand">
+        <Button Content="" HorizontalAlignment="Left" VerticalAlignment="Top" Width="53" Height="39" BorderBrush="{x:Null}" Margin="675,2,0,0" RenderTransformOrigin="0.5,0.5" Click="Button_Click_1" Cursor="Hand">
             <Button.RenderTransform>
                 <TransformGroup>
                     <ScaleTransform/>

@@ -5,7 +5,7 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:Программа_Больника"
         mc:Ignorable="d"
-        Title="Болезни" Height="500" Width="800" Icon="Icon.png">
+        Title="Сотрудники" Height="449" Width="740" Icon="Icon.png">
     <Window.Background>
         <ImageBrush ImageSource="fon.jpg"/>
     </Window.Background>

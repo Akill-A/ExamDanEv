@@ -5,7 +5,7 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:Программа_Больника"
         mc:Ignorable="d"
-        Title="Больница" Height="200" Width="270" Icon="Icon.png">
+        Title="Больница" Height="234.667" Width="316.8" Icon="Icon.png">
     <Window.Background>
         <ImageBrush ImageSource="fon.jpg" Stretch="None"/>
     </Window.Background>
@@ -13,7 +13,7 @@
         <Grid.Background>
             <ImageBrush ImageSource="8_dhans11.jpg"/>
         </Grid.Background>
-        <Label Content="" HorizontalAlignment="Left" Margin="10,10,0,0" VerticalAlignment="Top" Height="135" Width="222">
+        <Label Content="" HorizontalAlignment="Left" Margin="24,24,0,0" VerticalAlignment="Top" Height="158" Width="260">
             <Label.Effect>
                 <DropShadowEffect BlurRadius="10" Opacity="0.5"/>
             </Label.Effect>
@@ -31,7 +31,7 @@
             </Label.Background>
         </Label>
 
-        <Button Content="Сотрудников" HorizontalAlignment="Left" Margin="10,49,0,0" VerticalAlignment="Top" Width="222" FontFamily="Trebuchet MS" FontSize="14" BorderBrush="{x:Null}" Click="Button_Click_2" Foreground="White" Cursor="Hand">
+        <Button Content="Сотрудники" HorizontalAlignment="Left" Margin="44,68,0,0" VerticalAlignment="Top" Width="222" FontFamily="Trebuchet MS" FontSize="16" BorderBrush="{x:Null}" Click="Button_Click_2" Foreground="White" Cursor="Hand">
             <Button.Effect>
                 <DropShadowEffect BlurRadius="10" Opacity="0.5"/>
             </Button.Effect>
@@ -39,7 +39,7 @@
                 <ImageBrush/>
             </Button.Background>
         </Button>
-        <Button Content="Лекарства" HorizontalAlignment="Left" Margin="10,74,0,0" VerticalAlignment="Top" Width="222" FontFamily="Trebuchet MS" FontSize="14" BorderBrush="{x:Null}" Click="Button_Click_3" Foreground="White" Cursor="Hand">
+        <Button Content="Лекарства" HorizontalAlignment="Left" Margin="44,106,0,0" VerticalAlignment="Top" Width="222" FontFamily="Trebuchet MS" FontSize="16" BorderBrush="{x:Null}" Click="Button_Click_3" Foreground="White" Cursor="Hand">
             <Button.Effect>
                 <DropShadowEffect BlurRadius="10" Opacity="0.5"/>
             </Button.Effect>
@@ -47,7 +47,7 @@
                 <ImageBrush/>
             </Button.Background>
         </Button>
-        <Button Content="Болезни" HorizontalAlignment="Left" Margin="10,99,0,0" VerticalAlignment="Top" Width="222" FontFamily="Trebuchet MS" FontSize="14" BorderBrush="{x:Null}" Click="Button_Click_4" Foreground="White" Cursor="Hand">
+        <Button Content="Болезни" HorizontalAlignment="Left" Margin="44,147,0,0" VerticalAlignment="Top" Width="222" FontFamily="Trebuchet MS" FontSize="16" BorderBrush="{x:Null}" Click="Button_Click_4" Foreground="White" Cursor="Hand">
             <Button.Effect>
                 <DropShadowEffect BlurRadius="10" Opacity="0.5"/>
             </Button.Effect>
@@ -55,7 +55,7 @@
                 <ImageBrush/>
             </Button.Background>
         </Button>
-        <Button Content="Пациенты" HorizontalAlignment="Left" Margin="10,24,0,0" VerticalAlignment="Top" Width="222" Background="{x:Null}" BorderBrush="{x:Null}" FontFamily="Trebuchet MS" FontSize="14" Click="Button_Click_1" Foreground="White" Cursor="Hand">
+        <Button Content="Пациенты" HorizontalAlignment="Left" Margin="44,30,0,0" VerticalAlignment="Top" Width="222" Background="{x:Null}" BorderBrush="{x:Null}" FontFamily="Trebuchet MS" FontSize="16" Click="Button_Click_1" Foreground="White" Cursor="Hand">
             <Button.Effect>
                 <DropShadowEffect BlurRadius="10" Opacity="0.5"/>
             </Button.Effect>
